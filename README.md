@@ -1,22 +1,29 @@
-### Hi there 👋, my name is Rafa
-#### Frontend Software Engineer
-![Frontend Software Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h3 align="center">A passionate frontend developer from India</h3>
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+<p align="left"> <a href="https://twitter.com/luckyfing3r" target="blank"><img src="https://img.shields.io/twitter/follow/luckyfing3r?logo=twitter&style=for-the-badge" alt="luckyfing3r" /></a> </p>
 
-- 🔭 I’m currently working on my advanced portfolio 
-- 🌱 I’m currently learning JavaScript 
-- 💬 Ask me about anything! 
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I have a huge interest in film, music, and video games. 
+- 🔭 I’m currently working on **my advanced portfolio**
 
+- 🌱 I’m currently learning **JavaScript**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rafmojica)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/LuckyFing3r)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCr8OT-XRM0H2Oz9_KAL18uQ)  
+- 💬 Ask me about **HTML, CSS or even JavaScript**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **rafumojica@gmail.com**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafmojica)](https://github.com/anuraghazra/github-readme-stats)
+- ⚡ Fun fact **I am heavily engrossed in film, music, and video games**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafmojica&show_icons=true)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/luckyfing3r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luckyfing3r" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19464968" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19464968" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/luckyfinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="luckyfinger" height="30" width="40" /></a>
+</p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rafmojica)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafmojica&show_icons=true&locale=en&layout=compact" alt="rafmojica" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafmojica&show_icons=true&locale=en" alt="rafmojica" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafmojica&" alt="rafmojica" /></p>
