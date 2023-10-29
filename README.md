@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/luckyfing3r" target="blank"><img src="https://img.shields.io/twitter/follow/luckyfing3r?logo=twitter&style=for-the-badge" alt="luckyfing3r" /></a> </p>
 
-- 🔭 I’m currently working on **my advanced portfolio**
+- 🔭 I’m currently working on **the DVC freedom wall**
 
 - 🌱 I’m currently learning **JavaScript**
 
