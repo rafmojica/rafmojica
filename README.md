@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on **the DVC freedom wall**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **HTML, CSS or even JavaScript**
+- 💬 Ask me about **anything frontend related!**
 
 - 📫 How to reach me **rafumojica@gmail.com**
 
-- ⚡ Fun fact **I am heavily engrossed in film, music, and video games**
+- ⚡ Fun fact **I love listening to music, watching movies, and playing video games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
