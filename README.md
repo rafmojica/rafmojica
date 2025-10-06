@@ -2,15 +2,15 @@
 
 <p align="left"> <a href="https://twitter.com/luckyfing3r" target="blank"><img src="https://img.shields.io/twitter/follow/luckyfing3r?logo=twitter&style=for-the-badge" alt="luckyfing3r" /></a> </p>
 
-- 🔭 I’m currently working on **Viking Hacks 2024**
+- 🔭 I’m currently working on **my new portfolio**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **anything frontend related!**
 
 - 📫 How to reach me **rafumojica@gmail.com**
 
-- ⚡ Fun fact **I love listening to music, watching movies, and playing video games!**
+- ⚡ Fun fact **I have all the achievements in Sekiro: Shadows Die Twice**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
