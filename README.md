@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafmojica&show_icons=true&locale=en&layout=compact" alt="rafmojica" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafmojica&" alt="rafmojica" /></p>
-
-<a href="https://app.daily.dev/rafmojica"><img src="https://api.daily.dev/devcards/48159423a185413a8d27923837ad096e.png?r=hwk" width="400" alt="Rafael Mojica's Dev Card"/></a>
