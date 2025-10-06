@@ -1,4 +1,4 @@
-<h3 align="center">A passionate Frontend Developer from the Philippines</h3>
+<h3 align="center">Aspiring Full Stack Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/luckyfing3r" target="blank"><img src="https://img.shields.io/twitter/follow/luckyfing3r?logo=twitter&style=for-the-badge" alt="luckyfing3r" /></a> </p>
 
