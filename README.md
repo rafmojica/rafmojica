@@ -33,7 +33,7 @@
 
 [![Tools](https://skillicons.dev/icons?i=firebase,vite,vercel,sass,npm,vscode,webstorm,clion,ableton,pr,ae,&perline=8)](https://skillicons.dev)
 
-<h3 align="left">OS:</h3>
+<h3 align="left">Operating Systems:</h3>
 
 [![Tools](https://skillicons.dev/icons?i=windows,apple,linux)](https://skillicons.dev)
 
