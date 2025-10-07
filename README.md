@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafmojica&show_icons=true&locale=en&layout=compact&theme=dracula" alt="rafmojica" /></p>
 
-![Rafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafmojica&show_icons=true&theme=radical&hide=stars,issues,contribs&show=prs_merged_percentage&commits_year=2024)
+![Rafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafmojica&show_icons=true&theme=dracula&hide=stars,issues,contribs&show=prs_merged_percentage&commits_year=2024)
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafmojica&" alt="rafmojica" /></p> -->
