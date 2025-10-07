@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my new portfolio**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python and Three.js**
 
 - 💬 Ask me about **anything frontend related!**
 
