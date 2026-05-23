@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages:</h3>
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,cpp)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,java)](https://skillicons.dev)
 
 <h3 align="left">Frameworks/Libraries:</h3>
 
